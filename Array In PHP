@@ -1,0 +1,16 @@
+<?
+
+//Indexing Array
+
+$inDex = ['Name', 'City', 'House', 'Gender'];
+var_dump ($inDex);
+
+
+
+
+
+
+
+
+
+?>
