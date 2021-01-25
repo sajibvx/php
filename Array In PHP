@@ -2,9 +2,14 @@
 
 //Indexing Array
 
-$inDex = ['Name', 'City', 'House', 'Gender'];
-var_dump ($inDex);
+$inDex = array('Name', 'City', 'House', 'Gender');
 
+Associative Array
+
+$associateArr= array ('Name'=>'Sajib', 'Id'=>'232', 'Class'=>'10');
+
+var_dump($inDex);
+print_r ($associateArr);
 
 
 
