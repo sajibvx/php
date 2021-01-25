@@ -1,0 +1,11 @@
+<?php
+
+//array with foreach loop
+
+$numbers = [1,2,3,4,5,55,66,99,77,88,99,99,44,55,66,22,33,33];
+foreach($numbers as $value=>$num){
+
+echo $num.'</br>';
+
+
+}
